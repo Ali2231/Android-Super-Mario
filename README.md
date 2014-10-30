@@ -6,7 +6,7 @@ This game was started as a project to learn android programming, but soon it cam
 
 Have a look at the starting screen...
 
-http://lh5.ggpht.com/7mpw1b5pQSrZD8ylEwz2lJ-z9a-hQ6dXsXkIYYzMsfLh7a4KtHlFq4VOhbUczBaG_JI
+![Have a look at the starting screen...](http://lh5.ggpht.com/7mpw1b5pQSrZD8ylEwz2lJ-z9a-hQ6dXsXkIYYzMsfLh7a4KtHlFq4VOhbUczBaG_JI)
 
 
 Features
@@ -24,3 +24,5 @@ Controls: Tilt, KeyBoard, OnScreenControl
 
 
 Disclaimer: This game is non commercial, non profitable and released for entertainment purpose only. It uses many resources from Net, if any copyrights is violated (which is purely unintentional), please let us know.
+
+
