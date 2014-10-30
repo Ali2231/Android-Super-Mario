@@ -12,15 +12,15 @@ Have a look at the starting screen...
 Features
 ========
 
--Powers : Power Up, Bullets
+* Powers : Power Up, Bullets
 
--Enemies: Goomba, Koopa , Flying koopa, Latiku, Bowser, with some AI
+* Enemies: Goomba, Koopa , Flying koopa, Latiku, Bowser, with some AI
 
--Items : Springs and Platforms
+* Items : Springs and Platforms
 
--Worlds : Ground-World, Fire-Word, Water-World
+* Worlds : Ground-World, Fire-Word, Water-World
 
--Controls: Tilt, KeyBoard, OnScreenControl
+* Controls: Tilt, KeyBoard, OnScreenControl
 
 
 **Disclaimer**: This game is non commercial, non profitable and released for entertainment purpose only. It uses many resources from Net, if any copyrights is violated (which is purely unintentional), please let us know.
@@ -33,4 +33,4 @@ From the link below you can download the .apk file directly.
     
 [Download .apk File](https://github.com/maheshkurmi/-Android-Super-Mario/blob/master/SuperMario.apk?raw=true)
 
-However, for installation you must be have checked the installation of apps from inknown sources. For this, go to the settings, then go to the security and check the corresponding option.
+However, for installation you must have checked the installation of apps from unknown sources. For this, go to the settings, then go to the security and check the corresponding option.
