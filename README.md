@@ -31,6 +31,6 @@ Download Instructions
 
 From the link below you can download the .apk file directly.
     
-    [Download .apk File](https://github.com/maheshkurmi/-Android-Super-Mario/blob/master/SuperMario.apk?raw=true)
+[Download .apk File](https://github.com/maheshkurmi/-Android-Super-Mario/blob/master/SuperMario.apk?raw=true)
 
 However, for installation you must be have checked the installation of apps from inknown sources. For this, go to the settings, then go to the security and check the corresponding option.
